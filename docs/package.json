@@ -1,0 +1,17 @@
+{
+  "name": "sdg",
+  "version": "1.0.0",
+  "description": "code test",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/custom.scss css/custom.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
